@@ -1,0 +1,25 @@
+.info-card {
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #dfdfdf;
+    margin-right: 1rem;
+}
+
+.card-heading {
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #dfdfdf;
+    border-radius: 5px 5px 0px 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-content {
+    background-color: #fff;
+    border-radius: 0px 0px 5px 5px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
